@@ -24,7 +24,7 @@ const Portfolio = () => {
 
           <span className="work__item" 
           onClick={() => filterItem ("Creative")}
-          >Animation</span>
+          >Animation Web</span>
 
           <span className="work__item" 
           onClick={() => filterItem ("Art")}
